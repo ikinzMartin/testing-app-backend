@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  exercice_type: one
+  name: MyString
+  prompt: MyString
+  distractor_1: MyString
+  distractor_2: MyString
+  distractor_3: MyString
+  answer: MyString
+
+two:
+  exercice_type: two
+  name: MyString
+  prompt: MyString
+  distractor_1: MyString
+  distractor_2: MyString
+  distractor_3: MyString
+  answer: MyString

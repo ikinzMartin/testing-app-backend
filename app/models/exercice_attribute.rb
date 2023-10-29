@@ -1,0 +1,2 @@
+class ExerciceAttribute < ApplicationRecord
+end
