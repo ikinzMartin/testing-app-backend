@@ -1,7 +1,5 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Documentation for the project's database can be found in google drive, [here](https://drive.google.com/drive/u/0/folders/1-PeHWYrGaMwm9dpCZy1xXUBM19nsV7Sb).
 
 Things you may want to cover:
 
